@@ -62,7 +62,7 @@ const arr2 = arr1.map((name) => {
 console.log(arr2)
 
 const arr3 = arr1.filter((name) => {
-    return name !== "Pinka" && name !== "Yashpal";
+    return name !== "Pinka" && name !== "Yashpalll";
 });
 console.log(arr3)
 
